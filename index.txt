@@ -2,3 +2,4 @@ name: owen
 adm: bbit
 school: mku
 completion year: 2026
+overal ratings: mku is a 7 out of 10
