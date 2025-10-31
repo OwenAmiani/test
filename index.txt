@@ -1,3 +1,4 @@
 name: owen
 adm: bbit
 school: mku
+completion year: 2026
